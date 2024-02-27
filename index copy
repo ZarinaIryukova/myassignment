@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="mystyle.css">
+</head>
+
+<body>
+
+
+    <center>
+        <h1>My Hobby</h1>
+        <h2>By: Zarina Iryukova</h2>
+        <img src="readingimg.jpeg" alt="person reading a book" height="22%" width="22%">
+    </center>
+
+
+    <span>Reasons I like reading:</span>
+    <ul>
+        <li>It makes me happy</li>
+        <li>It makes me calmer</li>
+        <li>Reading helpes me to expand my vocabulary</li>
+        <li>Gives me new ideas</li>
+        <li>Reading also helpes me to improve my writing skills</li>
+    </ul>
+
+
+    <div style="text-decoration: wavy;" <p> My favorite book and genres to read are romance,
+        non-fiction, psychology, biography, sport and motivational. I think that all genres and each book can bring a
+        person something useful and teach a lesson about something in life. I love reading books because they are also
+        makes me to think about things in life and analyze.</p>
+
+
+        <span style="color:rgb(27, 179, 190)"><u>Interesting facts about me:</u></span>
+
+        <div style="text-decoration: wavy" <p>
+            <ol>
+                <li>I sarted to love reading after book "Pride and Pejudice" I've read</li>
+                <li>I can read on three languages</li>
+                <li>On different languages I read with the different speed</li>
+                <li>Another big reason I love reading is that I can be in so many diferent worlds and time periods with
+                    the main character from the book together and live all those moments in my imagination</li>
+            </ol>
+            </p>
+
+            <float:left>
+                <img src="pride&prejudice.webp" alt="person reading a book" height="19%" width="19%">
+            </float:left>
+
+            <img src="rosebook.avif" alt="person reading a book" height="20%" width="20%">
+           
+            <b>
+                <p>
+                    
+                    <span dotted ">Link to my artice:</span>
+            </b> </p>
+            <a href="http://127.0.0.1:5500/MyHobby.html">MyHobby.com!</a>
+            <h4>
+
+
+                <footer> Thank you for reading my article :) </footer>
+            </h4>
+
+
+</body>
+
+</html>
